@@ -14,6 +14,7 @@
     "lesca-react-scratch-card": "^2.2.1",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
+    "react-scratchcard-v2": "^1.1.1",
     "tailwindcss": "^4.1.14"
   },
   "devDependencies": {

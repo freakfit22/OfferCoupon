@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import ScratchCard from "lesca-react-scratch-card";
+import ScratchCard from "react-scratchcard-v2";
 import Coupon from "../src/assets/Coupon.jpeg";
 
 const offers = [
