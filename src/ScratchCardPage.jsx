@@ -3,15 +3,15 @@ import ScratchCard from "lesca-react-scratch-card";
 import Coupon from "../src/assets/Coupon.jpeg";
 
 const offers = [
-  "💥 ₹899 for 1 month",
-  "🔥 ₹799 for 1 month",
-  "🎉 ₹699 for 1 month",
-  "💫 ₹1399 for 2 months",
-  "✨ ₹1199 for 2 months",
-  "🎁 ₹1899 for 3 months",
-  "🌟 ₹1699 for 3 months",
-  "💸 20% OFF on any plan",
-  "🚀 30% OFF on any plan",
+      "💥 ₹899 for 1 month",
+      "🔥 ₹799 for 1 month",
+      "🎉 ₹699 for 1 month",
+      "💫 ₹1399 for 2 months",
+      "✨ ₹1199 for 2 months",
+      "🎁 ₹1899 for 3 months",
+      "🌟 ₹1699 for 3 months",
+      "💸 20% OFF on any plan",
+      "🚀 30% OFF on any plan",
 ];
 
 const ScratchCardPage = () => {
